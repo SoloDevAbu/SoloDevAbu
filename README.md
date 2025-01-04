@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoloDevAbu
-- 👀 I’m interested in making games, Apps and Unique and strong projects
-- 🌱 I’m currently learning DSA, Web Development
+- 👀 I’m interested Unique and strong projects
+- 🌱 I’m currently learning Web Development, DSA 
 - 💞️ I’m looking to collaborate on New projects
 
 <!---
