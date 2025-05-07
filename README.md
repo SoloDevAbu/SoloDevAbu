@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Abu Bakkar Siddique<br><br>🚀 Full-Stack Developer | MERN Stack | AI & Web3 Enthusiast<br>💡 Passionate about building scalable SaaS applications and open-source contributions<br>📌 Currently working on YouCollab – a platform for Youtubers & Editors<br>🔍 Exploring AI-powered automation and Web3 B2B SaaS startups<br>💻 Love problem-solving with DSA & system design<br>📬 Let's connect! <br><br>
+👋 Hey there! I'm Abu Bakkar Siddique<br><br>🚀 Full-Stack Developer | MERN Stack | AI & Web3 Enthusiast<br>💡 Passionate about building scalable SaaS applications and open-source contributions<br>📌 Currently working on CodeCraft - A virtual company with AI Agents<br>🔍 Exploring AI-powered automation and Web3 B2B SaaS startups<br>💻 Love problem-solving with DSA & system design<br>📬 Let's connect! <br><br>
 
 
 ## 🌐 Socials:
